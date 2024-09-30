@@ -10,5 +10,5 @@ public class TestAbstractFactory_task_5 {
 // it was written by me, in order to give documentation to ensure that my codes are working properly.
 
 // this code uses the Abstract Factory design pattern, its for the creation of families of related objects .
-// i have two interfaces such as: Button_task_5 and Window_task_5 define methods for buttons and windows.
+// i have two interfaces such as: GUIFactory_task_5.Button_task_5 and GUIFactory_task_5.Window_task_5 define methods for buttons and windows.
 // so also TestAbstractFactory_task_5 class shows creating a factory for Windows and use a button and window.
