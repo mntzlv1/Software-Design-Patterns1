@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ASSIGNMENT_1/ASSIGNMENT_1.iml" filepath="$PROJECT_DIR$/ASSIGNMENT_1/ASSIGNMENT_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ASSIGNMENT_2/ASSIGNMENT_2.iml" filepath="$PROJECT_DIR$/ASSIGNMENT_2/ASSIGNMENT_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASSIGNMENT_3/ASSIGNMENT_3.iml" filepath="$PROJECT_DIR$/ASSIGNMENT_3/ASSIGNMENT_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/ASSIGNMENT_1/src/SDP_task_1/SDP_task_1.iml" filepath="$PROJECT_DIR$/ASSIGNMENT_1/src/SDP_task_1/SDP_task_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ASSIGNMENT_1/src/SDP_task_2/SDP_task_2.iml" filepath="$PROJECT_DIR$/ASSIGNMENT_1/src/SDP_task_2/SDP_task_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ASSIGNMENT_1/src/SDP_task_3/SDP_task_3.iml" filepath="$PROJECT_DIR$/ASSIGNMENT_1/src/SDP_task_3/SDP_task_3.iml" />
