@@ -10,7 +10,6 @@ public class UserApp {
     public void run() {
         while (true) {
             int option = view.displayMenu();
-
             switch (option) {
                 case 1:
                     String name = view.getUserName();
@@ -18,7 +17,7 @@ public class UserApp {
                     view.displayMessage("User added!");
                     break;
                 case 2:
-                    view.displayUsers(viewModel.getUsers());
+                    view.displayUsers(viewModel.getUserNames());
                     break;
                 case 3:
                     view.displayMessage("Exiting...");

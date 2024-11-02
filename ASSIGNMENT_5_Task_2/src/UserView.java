@@ -22,10 +22,11 @@ public class UserView {
         return scanner.nextLine();
     }
 
-    public void displayUsers(List<UserModel> users) {
+    // Now displays a list of user names (Strings) instead of UserModel objects
+    public void displayUsers(List<String> userNames) {
         System.out.println("User List:");
-        for (UserModel user : users) {
-            System.out.println("- " + user.getName());
+        for (String name : userNames) {
+            System.out.println("- " + name);
         }
     }
 
